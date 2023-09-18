@@ -2,6 +2,12 @@
 
 This API service provides endpoints for managing employee data in a human resources system.
 
+Building a Node.js RESTful API with Express, Basic Authentication, and MongoDB
+
+## Description
+
+When it comes to building robust and straightforward RESTful APIs in Node.js, the combination of Express.js and MongoDB offers an efficient and scalable solution. Adding Basic Authentication to the mix ensures secure access to your API, making it suitable for various web and mobile applications that require user authentication and data storage.
+
 ## Installation
 
 - Clone the repository: `git clone https://github.com/printfcom1/HRsystem.git`
